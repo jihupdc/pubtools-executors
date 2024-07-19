@@ -115,7 +115,7 @@ if os.environ.get("READTHEDOCS", None):
 
 setup(
     name="pubtools-executors",
-    version="0.0.2",
+    version="0.0.3",
     description="Pubtools-executors",
     long_description=long_description,
     long_description_content_type='text/x-rst',
